@@ -51,6 +51,7 @@ pip3 install torch-1.9.0a0+gitd69c22d-cp39-cp39-linux_aarch64.whl
 ````
 
 # Install ONNXRuntime
+Clone the git repository and run,
 ````
 pip3 install onnxruntime-1.14.1-cp39-cp39-manylinux_2_27_aarch64.whl
 ````
