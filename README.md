@@ -52,6 +52,13 @@ wget https://files.pythonhosted.org/packages/36/60/aa7bf18070611e7b019886d345163
 pip3 install torch-2.0.0-cp39-cp39-manylinux2014_aarch64.whl
 ````
 
+# Install MediaPipie
+````
+sudo apt install ffmpeg -y
+sudo apt install libxcb-shm0 libcdio-paranoia-dev libsdl2-2.0-0 libxv1  libtheora0 libva-drm2 libva-x11-2 libvdpau1 libharfbuzz0b libbluray2 libatlas-base-dev libhdf5-103 libgtk-3-0 libdc1394-22 libopenexr23 -y
+pip3 install mediapipe-rpi3
+````
+
 # Install ONNXRuntime
 Clone the git repository and run,
 ````
