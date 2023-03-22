@@ -47,7 +47,9 @@ sudo apt-get install python3-tflite-runtime
 # Install Torch
 Clone the git repository and run,
 ````
-pip3 install torch-1.9.0a0+gitd69c22d-cp39-cp39-linux_aarch64.whl
+sudo apt-get install wget
+wget https://files.pythonhosted.org/packages/36/60/aa7bf18070611e7b019886d34516337ce6a2fe9da60745bc90b448642a10/torch-2.0.0-cp39-cp39-manylinux2014_aarch64.whl
+pip3 install torch-2.0.0-cp39-cp39-manylinux2014_aarch64.whl
 ````
 
 # Install ONNXRuntime
