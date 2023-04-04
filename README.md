@@ -50,6 +50,12 @@ Clone the git repository and run,
 sudo apt-get install wget
 wget https://files.pythonhosted.org/packages/36/60/aa7bf18070611e7b019886d34516337ce6a2fe9da60745bc90b448642a10/torch-2.0.0-cp39-cp39-manylinux2014_aarch64.whl
 pip3 install torch-2.0.0-cp39-cp39-manylinux2014_aarch64.whl
+pip3 install https://files.pythonhosted.org/packages/89/12/14e3114ac16ab113b984ddb22116773a79e5b5b7c10de5d21676e03f3abc/torchvision-0.15.1-cp39-cp39-manylinux2014_aarch64.whl
+pip3 install pandas
+pip3 install PyYAML
+pip3 install matplotlib
+pip3 install seaborn
+pip3 install scipy
 ````
 
 # Install MediaPipie For Raspbian Buster
