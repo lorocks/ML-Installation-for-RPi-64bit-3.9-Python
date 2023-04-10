@@ -5,6 +5,10 @@
 sudo apt-get update
 sudo apt-get upgrade
 ````
+# Install Numpy
+````
+pip3 install numpy
+````
 
 # Install TensorFlow
 ````
