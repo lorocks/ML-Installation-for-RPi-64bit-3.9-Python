@@ -87,5 +87,9 @@ Clone the git repository and run,
 ````
 pip3 install matplotlib-3.8.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
 ````
+Or
+```
+sudo apt-get install python3-matplotlib
+```
 
 Any other libraries you want for your implementation should be possible to just pip install it
