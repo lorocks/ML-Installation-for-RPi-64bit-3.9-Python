@@ -82,4 +82,10 @@ Clone the git repository and run,
 pip3 install onnxruntime-1.14.1-cp39-cp39-manylinux_2_27_aarch64.whl
 ````
 
+# Install Matplotlib
+Clone the git repository and run,
+````
+pip3 install matplotlib-3.8.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl
+````
+
 Any other libraries you want for your implementation should be possible to just pip install it
